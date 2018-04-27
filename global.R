@@ -1,3 +1,5 @@
+require(tidyverse)
+
 # Impose personal bias on graphics and warnings
 theme_set(theme_bw())
 options(warn=-1)
