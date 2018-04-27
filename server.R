@@ -1,4 +1,4 @@
-# Server description ---------------------------------------
+library(tidyverse)
 server <- function(input, output, session) {
 
   # Tab Panel 1 ---------------------

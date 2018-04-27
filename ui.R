@@ -1,4 +1,5 @@
-# Eureka shiny UI definition.
+library(shiny)
+library(shinythemes)
 
 ui <- shinyUI(navbarPage("Eureka",
                          theme = shinytheme("united"),
