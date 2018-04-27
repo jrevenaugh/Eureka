@@ -169,5 +169,5 @@ ui <- shinyUI(navbarPage("Eureka",
                                   a("justinr@umn.edu", href="mailto:justinr@umn.edu"), br(),
                                   a("See the code", href="https://github.com/jrevenaugh/Eureka"), br()
                          )
-)
+            )
 )
